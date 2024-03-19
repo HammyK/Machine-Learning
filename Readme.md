@@ -1,5 +1,10 @@
-## Bank Dataset Analysis
-This repository contains files and code related to the analysis and modeling of a bank dataset using decision tree and naive Bayes algorithms. The dataset, `bank_full.xlsx`, is included along with its sample version `bank_data.xlsx`. Various models and their corresponding optimized versions are provided, along with pre-processing files for Jupyter notebook.
+This repository contains files and code related to two separate studies:
+
+1. **Analysis of Handwritten Digit Recognition Using MLP and SVM**:
+   This study focuses on comparing Multi-Layer Perceptrons (MLP) and Support Vector Machines (SVM) for multi-classification tasks, particularly handwritten digit recognition using the MNIST dataset.
+
+2. **Analysis and Modeling of Bank Dataset**:
+   This study involves the analysis and modeling of a bank dataset using decision tree and naive Bayes algorithms.
 
 ### Instructions
 1. `FinalDTModels.mat`: Contains the final optimized model code for the decision tree.
