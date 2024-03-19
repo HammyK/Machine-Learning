@@ -1,3 +1,4 @@
+## Overview
 This repository contains files and code related to the analysis and modeling of a bank dataset using decision tree and naive Bayes algorithms. The dataset, `bank_full.xlsx`, is included along with its sample version `bank_data.xlsx`. Various models and their corresponding optimized versions are provided, along with pre-processing files for Jupyter notebook.
 
 ### Instructions
