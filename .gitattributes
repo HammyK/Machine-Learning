@@ -1,2 +1,2 @@
-*.ipynb linguist-language=Python false
+*.ipynb linguist-language=Python 
 *.m linguist-language=Matlab
